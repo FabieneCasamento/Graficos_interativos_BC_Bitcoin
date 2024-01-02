@@ -2,7 +2,6 @@
 Gráficos interativos e comuns para melhor visualização e analise dos dados.
 
 
-
 As bibliotecas instaladas no python são pandas, requests, matplotlib, seaborn, dash: 
 
 import pandas as pd
@@ -20,6 +19,9 @@ conda env list
 # conda environments:
 Quando já instalado, só entrar nele
 conda activate AmbienteVirtualAula
+
+criando o ambiente
+conda create --name AmbienteVirtualAula python=3.9
 
 
 
